@@ -2,7 +2,6 @@ import 'package:api_project/providers/my_provider.dart';
 import 'package:api_project/ui/another_cart_page.dart';
 import 'package:api_project/ui/another_favorite_page.dart';
 import 'package:api_project/ui/another_home_page.dart';
-import 'package:api_project/ui/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

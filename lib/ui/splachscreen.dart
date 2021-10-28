@@ -1,7 +1,5 @@
 import 'package:api_project/ex.dart';
 import 'package:api_project/providers/my_provider.dart';
-import 'package:api_project/ui/home_page.dart';
-import 'package:api_project/ui/login.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
